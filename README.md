@@ -17,3 +17,12 @@ The project files are organized as follows:
 ├── 📂 script/          # SQL scripts (numbered 01-10) covering DDL, ETL, and Analysis
 ├── 📦 Dataset.zip      # Compressed raw CSV data (Accounts, Transactions, Loans, etc.)
 └── 📄 README.md        # Project Documentation
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+---
+*Created by [Your Name]*
