@@ -1,22 +1,6 @@
-# 🏦 Czech Bank Data Engineering & Analysis Project
+# 🏦 Czech Bank Data Analysis & Engineering Project
 
 ![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
-## 📌 Project Overview
-This project is an **End-to-End Data Engineering and Analytics** solution built using **Microsoft SQL Server (T-SQL)**.
-
-The goal was to transform raw banking data into a structured Data Warehouse using the **Medallion Architecture (Bronze, Silver, Gold)**, and then perform advanced financial analysis to extract actionable business insights regarding loan risks, customer behavior, and financial trends.
-
-## 📂 Repository Structure
-
-The project files are organized as follows:
-
-```text
-├── 📂 Image/           # ER Diagrams, Schema snapshots, and Analysis visualizations
-├── 📂 script/          # SQL scripts (numbered 01-10) covering DDL, ETL, and Analysis
-├── 📦 Dataset.zip      # Compressed raw CSV data (Accounts, Transactions, Loans, etc.)
-└── 📄 README.md        # Project Documentation
 
 ## 📌 Project Overview
 End-to-End Data Engineering and Analysis project using **Microsoft SQL Server**. The project involves building a Data Warehouse (Bronze, Silver, Gold layers), performing ETL processes, and conducting advanced financial analysis on real-world banking data to extract actionable business insights.
