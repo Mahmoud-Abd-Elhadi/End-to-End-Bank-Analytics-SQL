@@ -18,10 +18,6 @@ The project files are organized as follows:
 ├── 📦 Dataset.zip      # Compressed raw CSV data (Accounts, Transactions, Loans, etc.)
 └── 📄 README.md        # Project Documentation
 
-# 🏦 Czech Bank Data Analysis & Engineering Project
-
-![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
-
 ## 📌 Project Overview
 End-to-End Data Engineering and Analysis project using **Microsoft SQL Server**. The project involves building a Data Warehouse (Bronze, Silver, Gold layers), performing ETL processes, and conducting advanced financial analysis on real-world banking data to extract actionable business insights.
 
