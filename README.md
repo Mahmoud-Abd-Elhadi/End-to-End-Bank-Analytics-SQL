@@ -12,12 +12,13 @@ The goal was to transform raw banking data into a structured Data Warehouse usin
 
 The project files are organized as follows:
 
-
+```text
 ├── 📂 Image/           # ER Diagrams, Schema snapshots, and Analysis visualizations
 ├── 📂 script/          # SQL scripts (numbered 01-10) covering DDL, ETL, and Analysis
 ├── 📦 Dataset.zip      # Compressed raw CSV data (Accounts, Transactions, Loans, etc.)
 └── 📄 README.md        # Project Documentation
-
+```
+ط
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
