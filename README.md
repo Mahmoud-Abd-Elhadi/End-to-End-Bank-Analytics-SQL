@@ -40,10 +40,19 @@ The project files are organized as follows:
 ├── 📦 Dataset.zip        # Compressed raw CSV data (Accounts, Transactions, Loans, etc.)
 └── 📄 README.md          # Project Documentation
 
-## 📬 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoudabdalhadi/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Mahmoud-Abd-Elhadi)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudhadi2184@gmail.com)
+## 👤 Author
+**[Mahmoud Abd Elhadi]**
+*Data Analyst*
 
-*Created by [Mahmoud Abd Elhadi]*
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahmoud-abd-elhadi/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  &nbsp; &nbsp;
+  
+  <a href="https://github.com/Mahmoud-Abd-Elhadi" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/>
+  </a>
+  &nbsp; &nbsp;
