@@ -39,7 +39,7 @@ The project files are organized as follows:
 ├── 📊 Czech_Bank.pbix    # Power BI Dashboard file
 ├── 📦 Dataset.zip        # Compressed raw CSV data (Accounts, Transactions, Loans, etc.)
 └── 📄 README.md          # Project Documentation
-ط
+
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoud-abd-elhadi/)
