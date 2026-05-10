@@ -30,15 +30,14 @@ The goal was to transform raw banking data into a structured Data Warehouse usin
 * **Dashboard Design:** Designed an intuitive, user-friendly UI with clean visualizations and interactive navigation panes for seamless stakeholder reporting.
 
 ## 📂 Repository Structure
-
 The project files are organized as follows:
-
 ```text
 ├── 📂 Image/             # ER Diagrams, Schema snapshots, and Dashboard visualizations
 ├── 📂 script/            # SQL scripts (numbered 01-10) covering DDL, ETL, and Analysis
 ├── 📊 Czech_Bank.pbix    # Power BI Dashboard file
 ├── 📦 Dataset.zip        # Compressed raw CSV data (Accounts, Transactions, Loans, etc.)
 └── 📄 README.md          # Project Documentation
+```
 
 ---
 
@@ -50,9 +49,8 @@ The project files are organized as follows:
   <a href="https://www.linkedin.com/in/mahmoud-abd-elhadi/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
-  &nbsp; &nbsp;
-  
+  &nbsp;&nbsp;
   <a href="https://github.com/Mahmoud-Abd-Elhadi" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/>
   </a>
-  &nbsp; &nbsp;
+</p>
