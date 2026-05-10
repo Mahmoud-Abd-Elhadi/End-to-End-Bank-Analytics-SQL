@@ -29,6 +29,28 @@ The goal was to transform raw banking data into a structured Data Warehouse usin
   * Deep-dive analysis into client standing orders and card withdrawal volumes.
 * **Dashboard Design:** Designed an intuitive, user-friendly UI with clean visualizations and interactive navigation panes for seamless stakeholder reporting.
 
+## 🗂️ Files & Directories Breakdown
+
+Here is a detailed overview of what each file and folder in this repository contains:
+
+### 1. 📂 `script/` (SQL Engineering Scripts)
+This directory contains sequential T-SQL scripts (01-10) that build the Medallion Architecture:
+* **`01_to_02_Bronze_Layer.sql`**: Contains the DDL statements to create the initial database tables and the `BULK INSERT` commands to load the raw CSV files into the database.
+* **`03_to_05_Silver_Layer.sql`**: Focuses on data cleaning. Handles missing values (NULLs), standardizes date formats, corrects data types, and resolves any data inconsistencies.
+* **`06_to_08_Gold_Layer.sql`**: Transforms the cleaned data into a **Star Schema**. Creates the core Dimension tables (e.g., `Dim_Client`, `Dim_Account`) and Fact tables (e.g., `Fact_Transactions`, `Fact_Loans`).
+* **`09_to_10_Views_and_Analysis.sql`**: Creates optimized SQL Views specifically tailored for Power BI ingestion. Also includes ad-hoc analytical queries to validate data integrity before visualization.
+
+*(Note: Script numbers represent the exact execution order to replicate the database successfully).*
+
+### 2. 📊 `Czech_Bank.pbix`
+* The final **Power BI Dashboard** file. It connects to the Gold layer views, contains the structured relational data model, all custom **DAX measures**, and the interactive report pages.
+
+### 3. 📦 `Dataset.zip`
+* A compressed folder containing the original **raw CSV datasets** (clients, accounts, transactions, standing orders, etc.) sourced from the Czech Bank.
+
+### 4. 📂 `Image/`
+* Contains visual assets used for this documentation, including the **ER Diagram**, data modeling schema snapshots, and the final dashboard preview.
+
 ## 📂 Repository Structure
 The project files are organized as follows:
 ```text
