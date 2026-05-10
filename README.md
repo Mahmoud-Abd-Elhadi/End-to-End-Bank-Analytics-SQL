@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## 📊 Interactive Dashboard
-**[🔗 View the Live Dashboard on NovyPro](https://www.novypro.com/create_project/banking-performance-dashboard-czech-bank)**
+**[🔗 View the Live Dashboard on NovyPro](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1778429109501x471091646274359940)**
 
 *(Dashboard Preview)*
 ![Czech Bank Dashboard](https://github.com/Mahmoud-Abd-Elhadi/End-to-End-Bank-Analytics-SQL/blob/main/Image/Dashboard%20Img.png)
